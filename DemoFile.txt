@@ -5,6 +5,7 @@ class Demo{
 	//Changed
 	//-Changed in the master
 	//-Changed for 3-way merging
+	//Changed for master and tried to create a conflict in this new line. Maybe this will help
 }
 
 }
